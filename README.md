@@ -1,6 +1,6 @@
 ### E aí!? Eu sou o Davi Ximenes, seja bem-vindo!
 
-- 🔭 Estudando para me tornar um desenvolvedor back-end!
+- 🔭 Estudando para me tornar um desenvolvedor fullstack!
 - 🌱 Aperfeiçoando Python
 - 💬 Para contato, e-mail: davixlima@gmail.com
 - 😄 Pronomes: Ele/Dele
