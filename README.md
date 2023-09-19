@@ -1,8 +1,8 @@
 ### E aí!? Eu sou o Davi Ximenes, seja bem-vindo!
 
-- 🔭 Estudando para me tornar um desenvolvedor fullstack!
-- 🌱 Aperfeiçoando Python
-- 💬 Para contato, e-mail: davixlima@gmail.com
+- Estudando para me tornar um desenvolvedor!
+- Aperfeiçoando Python
+- Para contato, e-mail: davixlima@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
